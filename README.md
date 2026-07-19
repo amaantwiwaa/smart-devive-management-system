@@ -1,2 +1,2 @@
-# smart-devive-management-system
+# smart-device-management-system
 oop
